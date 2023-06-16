@@ -1,4 +1,5 @@
 # TITTLE
+![Screenshot 2023-06-16 101259](https://github.com/chaitanya18c/Simulation-project--Digital-Electronics/assets/119392724/0fddea55-8e86-47ad-a3ed-1551458b7835)
 
 # THEORY
 Verilog allows designers to describe the behavior and structure of digital circuits, 
@@ -14,7 +15,7 @@ such as logic gates, flip-flops, registers, and memories, which collectively for
 ![WhatsApp Image 2023-06-15 at 20 23 03](https://github.com/chaitanya18c/Simulation-project--Digital-Electronics/assets/119392724/5b7f5753-117b-4e19-bd53-5a21337f7db8)
 
 # TIMING DIAGRAM
-
+![Uploading WhatsApp Image 2023-06-15 at 20.23.02.jpg…]()
 
 # PROGRAM
 ```
@@ -30,4 +31,5 @@ and (z,b,c);
 or (T2, a, z);
 endmodule
 ```
+
 # REFERENCE
