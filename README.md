@@ -15,7 +15,8 @@ such as logic gates, flip-flops, registers, and memories, which collectively for
 ![WhatsApp Image 2023-06-15 at 20 23 03](https://github.com/chaitanya18c/Simulation-project--Digital-Electronics/assets/119392724/5b7f5753-117b-4e19-bd53-5a21337f7db8)
 
 # TIMING DIAGRAM
-![Uploading WhatsApp Image 2023-06-15 at 20.23.02.jpg…]()
+![WhatsApp Image 2023-06-16 at 10 21 27](https://github.com/chaitanya18c/Simulation-project--Digital-Electronics/assets/119392724/5ee3bfbd-8c34-4670-a90e-966790e5270e)
+
 
 # PROGRAM
 ```
@@ -32,4 +33,3 @@ or (T2, a, z);
 endmodule
 ```
 
-# REFERENCE
